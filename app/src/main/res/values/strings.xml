@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">PracticaII</string>
+    <string name="Correo_electronico">Correo electronico</string>
+    <string name="Contrasena">Contraseña</string>
+    <string name="formulario_de_registro">Formulario de registro</string>
+    <string name="ingrese_el_nombre">Ingrese su nombre</string>
+    <string name="ingrese_el_correo">Ingrese su correo</string>
+    <string name="ingrese_el_telefono">Ingrese numero de telefono</string>
+    <string name="ingrese_la_contrasena">Ingrese su contraseña(min 6 digitos)</string>
+    <string name="repita_contrasena">Confirme su contraseña</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="jugar_futbol">Jugar futbol</string>
+    <string name="cine">Cine</string>
+    <string name="ver_tv">Ver TV</string>
+    <string name="pasear_bici">Pasear en bicicleta</string>
+    <string name="Ingrese_fecha">Seleccione fecha de nacimiento</string>
+    <string name="seleccione_lugarde_nacimiento">Seleccione lugar de nacimiento</string>
+    <string name="registrarse">Registrarse</string>
+
+    <string-array name="city_list">
+        <item>Elegir una opcion</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Barranquilla</item>
+        <item>Monteria</item>
+        <item>Bogota</item>
+    </string-array>
+    <string name="title_activity_drawer">DrawerActivity</string>
+
+</resources>
